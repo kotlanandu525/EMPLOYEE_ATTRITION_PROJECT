@@ -1,0 +1,21 @@
+
+Employee Attrition Analysis Report
+
+Total Employees : 1470
+Attrition Rate  : 16.12%
+
+Key Findings:
+-------------
+1. Attrition Rate = 16.12%
+
+2. Department-wise attrition analyzed.
+
+3. Gender-wise attrition analyzed.
+
+4. Salary impact analyzed using MonthlyIncome.
+
+5. Experience impact analyzed using TotalWorkingYears.
+
+6. Correlation heatmap generated.
+
+Generated Successfully.
